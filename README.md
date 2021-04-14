@@ -1,4 +1,3 @@
-# in progress
 # Assignment3_UFO
 ### Lavet af
 Morten Feldt & Jörg Oertel
