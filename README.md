@@ -1,7 +1,7 @@
 # in progress
 # Assignment3_UFO
 ###Lavet af
-Morten Feldt
+Morten Feldt & Jörg Oertel
 ***
 ###Miljø
 CPU: Intel i7-7600U 2,8 GHz  
